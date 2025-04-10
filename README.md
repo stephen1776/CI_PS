@@ -1,2 +1,3 @@
-# CI_PS
-Calculus I: Problems and Solutions
+# Calculus I: Problems and Solutions
+## Description ##
+Information such as corrections will appear here.
